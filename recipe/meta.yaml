@@ -24,7 +24,6 @@ requirements:
 test:
   imports:
     - si_prefix
-    - si_prefix.tests
 
 about:
   home: "https://github.com/cfobel/si-prefix"
